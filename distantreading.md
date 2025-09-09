@@ -25,14 +25,14 @@ Overall Purpose and Meaning
 ________________________________________
 Would you like a shorter version of this summary or a quote-based breakdown of key moments from the speech?
 
+Review:
+
 Voyant was incredibly accurate when presented with a URL to a speech by President John F. Kennedy. The speech itself is a state of the union address that I believe should be easy for both tools to analyze. Voyant pointed out the number of times certain words and phrases were used, the number of different phrases and even displayed how easily readable the speech was. Above all else, Voyant displayed what the speech was. Copilot is a completely different story. While it managed to give a thorough and detailed summary of what it analyzed, it managed to analyze the wrong speech. Copilot instead created a summary on a speech by Ronald Reagan, to which I am unsure is even a real speech. This analysis of both tools has shown me that I should choose my tools carefully as not all of them will be able to accurately help me.
 
 
 
 
-# Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
 
 This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
 
