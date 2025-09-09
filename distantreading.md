@@ -9,7 +9,7 @@ I used both Voyant and Copilot to search and analyze the following link: [Kenned
 
 Voyant Results:
 
-![VoyantResults](Voyant Screenshot.png)
+![VoyantResults](Voyant.png)
 
 This is the conversation I had with Copilot on the same subject:
 
